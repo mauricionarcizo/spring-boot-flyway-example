@@ -1,0 +1,1 @@
+create table teste (id numeric(19,0));
